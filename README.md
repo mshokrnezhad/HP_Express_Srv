@@ -1,2 +1,2 @@
-# Sim_HighPerf_Express_Srv
-A Simple High Performance Express Server 
+# Sim_HP_Express_Srv
+A simple high performance express server 

@@ -1,0 +1,23 @@
+{
+  "name": "sim_hp_express_srv",
+  "version": "1.0.0",
+  "description": "A simple high performance express server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mshokrnezhad/Sim_HP_Express_Srv.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mshokrnezhad/Sim_HP_Express_Srv/issues"
+  },
+  "homepage": "https://github.com/mshokrnezhad/Sim_HP_Express_Srv#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
